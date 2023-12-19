@@ -2,6 +2,12 @@ package exo1;
 
 import java.util.Scanner;
 
+//Écrire un programme en Java qui demande l'âge d'un enfant et permet d'informer de sa catégorie sachant que les catégories sont les suivantes: 
+//"poussin de 6 a 7 ans"
+//"pupille de 8 a 9 ans "
+//"minime de 10 a 11 ans "
+//" cadet après 12 ans ".
+
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);

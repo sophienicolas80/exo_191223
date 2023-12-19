@@ -1,7 +1,7 @@
 package exo2;
 
 import java.util.Scanner;
-
+//Écrire un programme en Java qui permet de calculer la somme S=1+2+3+...+ 10. Utilisant la boucle for.
 
 public class App {
     public static void main(String[] args) throws Exception {
