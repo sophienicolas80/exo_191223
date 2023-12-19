@@ -18,7 +18,7 @@ public class App {
         if (a==b && b ==c) {
             System.out.println("Tous les nombres sont égaux");
         }
-        else if (a !=b && b!=c){
+        else if (a !=b && b!=c && a!=c){
             System.out.println("Tous les nombres sont différents \n " );
         }
         else {

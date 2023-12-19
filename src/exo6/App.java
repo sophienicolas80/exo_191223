@@ -22,7 +22,8 @@ public class App {
         }
         else {
             float division = a/b;
-            System.out.println("la division de A / B est \n " +division );
+            float reste = a%b;
+            System.out.println("la division de A / B est \n " +division +" et le reste \n " +reste );
         }
         scanner.close();
     }
